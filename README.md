@@ -29,7 +29,7 @@ Others: `Scrum` `Jira` `Kubernetes` `Google Cloud` `Postgres` `SQL`
 
 ### General Skills
 
-Languages: `Spanish Native` `Advanced English`
+Languages: `Spanish Native` `Advanced English` `French A1`
 
 
 ## ✨ Fun Facts
