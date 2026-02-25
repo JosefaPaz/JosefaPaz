@@ -13,9 +13,9 @@ In my Newsletter, I share my learnings and tips to become a better developer.
 
 ### Programming
 
-Backend Development: `Rails` `Javascript`
+Backend Development: `Rails` `Javascript`, `Django`
 
-Frontend Development: `React`
+Frontend Development: `React`, `HTMX`
 
 Programming Languages: `Ruby` `Python` `Java` `C` `Javascript`
 
